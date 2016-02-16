@@ -1,0 +1,9 @@
+c:\users\andrewz\documents\visual studio 2013\Projects\StcDataScraper\StcDataScraper\bin\Debug\StcDataScraper.exe.config
+c:\users\andrewz\documents\visual studio 2013\Projects\StcDataScraper\StcDataScraper\bin\Debug\StcDataScraper.exe
+c:\users\andrewz\documents\visual studio 2013\Projects\StcDataScraper\StcDataScraper\bin\Debug\StcDataScraper.pdb
+c:\users\andrewz\documents\visual studio 2013\Projects\StcDataScraper\StcDataScraper\bin\Debug\HtmlAgilityPack.dll
+c:\users\andrewz\documents\visual studio 2013\Projects\StcDataScraper\StcDataScraper\bin\Debug\HtmlAgilityPack.pdb
+c:\users\andrewz\documents\visual studio 2013\Projects\StcDataScraper\StcDataScraper\bin\Debug\HtmlAgilityPack.xml
+c:\users\andrewz\documents\visual studio 2013\Projects\StcDataScraper\StcDataScraper\obj\Debug\StcDataScraper.csprojResolveAssemblyReference.cache
+c:\users\andrewz\documents\visual studio 2013\Projects\StcDataScraper\StcDataScraper\obj\Debug\StcDataScraper.exe
+c:\users\andrewz\documents\visual studio 2013\Projects\StcDataScraper\StcDataScraper\obj\Debug\StcDataScraper.pdb
